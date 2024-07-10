@@ -4,6 +4,7 @@
 ---
 
 Complete Jupyter Notebook can be accessed here : [Public: Semantic Segmentation of YouTube Videos](https://colab.research.google.com/drive/1aqiet4atbkA_ijff6JrzR8aqL75JC51U)
+
 Simply run the cells from top to bottom. Run the gradio app and enter any URL to a YouTube Video to obtain its semantically segmented transript!
 
 ### Problem Statement:
